@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CD6A9166-C8C2-419F-8946-368CF2A00380</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Materialize</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>67118A40352A8F29CE3B80EC7C525EBC2D90E538</key>
+		<string>https://github.com/nishtacular/materializecss-test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Materialize.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>67118A40352A8F29CE3B80EC7C525EBC2D90E538</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nishtacular/materializecss-test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>67118A40352A8F29CE3B80EC7C525EBC2D90E538</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>67118A40352A8F29CE3B80EC7C525EBC2D90E538</string>
+			<key>IDESourceControlWCCName</key>
+			<string>materializecss-test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
